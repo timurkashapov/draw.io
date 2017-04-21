@@ -1,1 +1,1 @@
-# This rep consist the schemes and pictures of software architectures
+# This rep consist the schemes, diagrams and pictures of software architectures
