@@ -1,0 +1,1 @@
+## Scheme of game algorithm
